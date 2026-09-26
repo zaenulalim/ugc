@@ -1,0 +1,6 @@
+{
+  "name": "Advertisement Storyboard Studio",
+  "description": "AI-Powered Advertising Storyboard & Prompt Generator for creators, agencies, and advertisers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
